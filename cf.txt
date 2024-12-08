@@ -1,5 +1,3 @@
-34.97.177.229,443,JP,Google LLC
-34.92.122.190,443,HK,Google LLC
 172.104.170.159,8443,SG,Akamai Technologies
 31.192.238.71,8443,SG,Chelyabinsk Signal LLC
 188.166.255.195,8443,SG,DigitalOcean LLC
