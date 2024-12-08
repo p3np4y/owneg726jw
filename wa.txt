@@ -2,7 +2,7 @@
 103.186.1.209,2053,ID,Cloud Hosting Indonesia
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
-35.219.15.90,ID,Google LLC
+35.219.15.90,443,ID,Google LLC
 103.168.146.169,20132,ID,Herza Digital Indonesia
 103.6.207.108,8080,ID,Pusat Media Indonesia
 203.194.112.119,8443,ID,Rumahweb Indonesia
