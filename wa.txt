@@ -1,4 +1,6 @@
 172.232.239.151,587,ID,Akamai Technologies Inc.
+43.218.77.16,443,ID,Amazon.com Inc
+43.218.77.16,1443,ID,Amazon.com Inc
 103.186.1.209,2053,ID,Cloud Hosting Indonesia
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 103.133.223.52,2096,ID,Cloud Teknologi Nusantara
