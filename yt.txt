@@ -1,0 +1,9 @@
+198.168.101.245,31460,CA,Cooptel Coop de Telecommunication
+194.24.161.146,4090,FR,Layer7 Networks Datacenter
+172.93.185.6,26661,DE,Nexeon Technologies
+216.185.57.194,8443,IN,Ipxo LLC
+58.183.40.84,33674,JP,Energia Communications Inc
+219.111.17.202,443,JP,Internet Initiative Japan Inc
+93.185.163.186,4007,NL,DutchIS
+91.235.21.209,28657,PL,AirCity Krzysztof Janukowicz
+194.9.62.132,34646,SG,SpeedyPage Ltd
