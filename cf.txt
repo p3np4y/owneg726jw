@@ -1,0 +1,10 @@
+34.97.177.229,443,JP,Google LLC
+34.92.122.190,443,HK,Google LLC
+172.104.170.159,8443,SG,Akamai Technologies
+31.192.238.71,8443,SG,Chelyabinsk Signal LLC
+188.166.255.195,8443,SG,DigitalOcean LLC
+38.181.70.7,16240,SG,Eons Data Communications Limited
+97.74.82.87,45837,SG,GoDaddy.com LLC
+91.192.81.154,2053,SG,Melbikomas UAB
+129.150.36.188,53435,SG,Oracle Corporation
+139.180.136.178,29806,SG,SGP VULTR
